@@ -30,3 +30,29 @@ When reporting a bug, please include:
 Got an idea to make Paddlup better? Send us your suggestions! We're always looking to improve the app based on user feedback.
 
 _Paddlup is developed independently and is not affiliated with any pickleball organization._
+
+
+# PRIVACY POLICY FOR PADDLUP
+Last updated: [09/29/25]
+
+1. INFORMATION WE COLLECT
+- Email address for account creation
+- Match data (scores, player names, dates, locations)
+- Player information you create
+
+2. HOW WE USE INFORMATION  
+- To provide and maintain the app service
+- To manage your account and authenticate access
+- To store your match and player data
+
+3. DATA STORAGE
+- Data is stored securely using Supabase
+- Your data is private to your account only
+- We do not share your data with third parties
+
+4. DATA RETENTION
+- Data is retained while your account is active
+- You can delete your account and data at any time
+
+5. CONTACT US
+Email: haiku.knights17@icloud.com
